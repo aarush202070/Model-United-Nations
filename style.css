@@ -1,10 +1,13 @@
 body{
-    background-color:#d4cafc;
+    background-color:#c2b3ff;
 }
 h1{color:black;
     font-family:"Times New Roman";}
 h4{color:black;
-font-family: "Calibri";}
+font-family: "Calibri";}h4 {
+  color: black;
+  font-family: "Calibri";
+}
 button{
     
     width: 204px;
@@ -32,10 +35,7 @@ span{
     z-index: -1;
     transition:0.5s;
 }
-
 button:hover span{
-     width: 100%;
+    width: 100%;
 
 }
-
-
