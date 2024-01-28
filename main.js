@@ -49,3 +49,9 @@ function addUser9()
 
     window.location = "research.html";
 }
+
+function addUser10()
+{
+
+    window.location = "faq.html";
+}
